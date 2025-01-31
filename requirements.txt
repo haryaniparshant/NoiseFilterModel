@@ -1,0 +1,11 @@
+# torch
+# torchaudio
+transformers==4.24.0
+datasets==2.6.1
+jiwer==2.5.1
+librosa==0.8.1
+SoundFile==0.10.3.post1
+mir-eval==0.7
+asteroid==0.6.0
+espnet==202209
+python-multipart
